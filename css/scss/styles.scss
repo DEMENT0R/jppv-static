@@ -1,0 +1,35 @@
+/* CSS Start */
+
+@import '_default.scss';
+
+@import '_images.scss';
+
+/* Base styles for simple browsers. */
+@import '_phones.scss';
+
+@media only screen and (min-width: 320px) {
+	/* Old phones */
+	
+}
+
+@media only screen and (min-width: 480px) {
+	/* Android, iPhone, etc. */
+	
+}
+
+@media only screen and (min-width: 768px) {
+	/* Tablets — portrait. */
+	@import '_desktops.scss';
+}
+
+@media only screen and (min-width: 992px) {
+	/* Landscape tablets, notebooks, desktop. */
+	
+}
+
+@media only screen and (min-width: 1382px) {
+	/* Hires desktops, TVs. */
+
+}
+
+/* CSS End */

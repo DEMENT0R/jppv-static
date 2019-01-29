@@ -1,0 +1,61 @@
+/*FONTS*/
+.tomoru-font-1 {
+	/*margin-top: 70px;*/
+	
+	font-family: Fira Sans;
+	font-style: normal;
+	font-weight: normal;
+	line-height: normal;
+	font-size: 24px;
+
+	color: #06A77D;
+}
+.tomoru-font-2 {
+	font-family: Fira Sans;
+	font-style: normal;
+	font-weight: 300;
+	line-height: 26px;
+	font-size: 18px;
+
+	color: #172A3A;
+}
+
+.tomoru-font-3 {
+	font-family: Fira Sans;
+	font-style: normal;
+	font-weight: 300;
+	line-height: normal;
+	font-size: 13px;
+
+	color: #000000;
+}
+
+.tomoru-font-4 {
+	font-family: Fira Sans;
+	font-style: normal;
+	font-weight: 300;
+	line-height: 17px;
+	font-size: 13px;
+
+	color: #000000;
+}
+
+.tomoru-font-5 {
+	font-family: Fira Sans;
+	font-style: normal;
+	font-weight: normal;
+	line-height: normal;
+	font-size: 18px;
+
+	color: #37474F;
+}
+
+// IMAGES
+
+#tomoru-img-macbook-right {
+	background-repeat: no-repeat;
+	// background-size: contain;
+	background-size: 50%;
+	background-position: right;
+	background-image: url('../img/macbook-mobile.png');
+}

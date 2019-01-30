@@ -28,29 +28,6 @@
 }
 
 /*BUTTONS*/
-/*TABS*/
-.block-3-tab {
-  font-family: 'Fira Sans' !important;
-  font-style: normal !important;
-  font-weight: normal !important;
-  line-height: normal !important;
-  font-size: 15px !important;
-  color: #3F88C5 !important;
-  border: none !important;
-  border-bottom: 1px dashed #3F88C5 !important;
-  padding: 3px;
-  margin: 10px;
-  margin-left: 10px;
-  margin-right: 10px;
-}
-
-.block-3-tab.active {
-  font-weight: 500 !important;
-  color: #000000 !important;
-  border: none !important;
-  text-decoration: none;
-}
-
 /*IMAGES*/
 .top-logo-img {
   width: 121px;
@@ -66,29 +43,10 @@
 
 .navbar {
   background-color: #fff;
-  border-bottom: 1px solid #DDDDDD;
 }
 
 .nav-link {
-  color: #000;
-}
-
-footer {
-  position: fixed;
-  right: 0;
-  bottom: 0;
-  padding: 10px;
-}
-
-/*CALCULATOR*/
-.calc-right-block-1 {
-  background-color: #F1F5FB;
-  border-left: 2px solid #06A77D;
-}
-
-.calc-right-block-2 {
-  color: #FFF;
-  background-color: #06A77D;
+  color: #0A1D2E;
 }
 
 /*MISC*/
@@ -109,60 +67,8 @@ footer {
   border: 2px solid #06A77D;
 }
 
-/*.row {
-	margin-left: 0; 
-	margin-right: 0;
-	padding-left: 0; 
-	padding-right:0;
-}*/
 /* Base styles for simple browsers. */
 /*FONTS*/
-.tomoru-font-1 {
-  /*margin-top: 70px;*/
-  font-family: Fira Sans;
-  font-style: normal;
-  font-weight: normal;
-  line-height: normal;
-  font-size: 24px;
-  color: #06A77D;
-}
-
-.tomoru-font-2 {
-  font-family: Fira Sans;
-  font-style: normal;
-  font-weight: 300;
-  line-height: 26px;
-  font-size: 18px;
-  color: #172A3A;
-}
-
-.tomoru-font-3 {
-  font-family: Fira Sans;
-  font-style: normal;
-  font-weight: 300;
-  line-height: normal;
-  font-size: 13px;
-  color: #000000;
-}
-
-.tomoru-font-4 {
-  font-family: Fira Sans;
-  font-style: normal;
-  font-weight: 300;
-  line-height: 17px;
-  font-size: 13px;
-  color: #000000;
-}
-
-.tomoru-font-5 {
-  font-family: Fira Sans;
-  font-style: normal;
-  font-weight: normal;
-  line-height: normal;
-  font-size: 18px;
-  color: #37474F;
-}
-
 #tomoru-img-macbook-right {
   background-repeat: no-repeat;
   background-size: 50%;
@@ -181,47 +87,6 @@ footer {
 @media only screen and (min-width: 768px) {
   /* Tablets — portrait. */
   /*FONTS*/
-  .tomoru-font-1 {
-    /*margin-top: 70px;*/
-    font-family: Fira Sans;
-    font-style: normal;
-    font-weight: normal;
-    line-height: normal;
-    font-size: 44px;
-    color: #06A77D;
-  }
-  .tomoru-font-2 {
-    font-family: Fira Sans;
-    font-style: normal;
-    font-weight: 300;
-    line-height: 39px;
-    font-size: 27px;
-    color: #172A3A;
-  }
-  .tomoru-font-3 {
-    font-family: Fira Sans;
-    font-style: normal;
-    font-weight: 300;
-    line-height: 30px;
-    font-size: 15px;
-    color: #000000;
-  }
-  .tomoru-font-4 {
-    font-family: Fira Sans;
-    font-style: normal;
-    font-weight: normal;
-    line-height: normal;
-    font-size: 14px;
-    color: rgba(0, 0, 0, 0.6);
-  }
-  .tomoru-font-5 {
-    font-family: Fira Sans;
-    font-style: normal;
-    font-weight: normal;
-    line-height: normal;
-    font-size: 20px;
-    color: #37474F;
-  }
   #tomoru-img-macbook-right {
     background-image: none;
   }

@@ -9,19 +9,13 @@
       </div>
 
     <div class="">
-      <div id="land_1" class="landingItem">
-		<div class="bg_1">
-			<div class="decoy">Платформа</div>
-		</div>
+      <div id="land_1" class="landingItem bg_1">
+    			<div class="decoy">Платформа</div>
       </div>
-      <div id="land_2" class="landingItem">
-		<div class="bg_2">
-			<div class="decoy">Пресс-центр</div>
-		</div>
+      <div id="land_2" class="landingItem bg_2">
+    			<div class="decoy">Пресс-центр</div>
       </div>
-      <div id="land_3" class="landingItem">
-		<div class="bg_3">
-			<div class="decoy">Карта</div>
-		</div>
+      <div id="land_3" class="landingItem bg_3">
+    			<div class="decoy">Карта</div>
       </div>
     </div>

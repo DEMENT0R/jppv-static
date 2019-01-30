@@ -1,40 +1,9 @@
 @charset "UTF-8";
 /* CSS Start */
+/*BUTTONS*/
+/*MAIN MENU*/
 @import url("https://fonts.googleapis.com/css?family=Roboto");
 @import url("https://fonts.googleapis.com/css?family=Play");
-* {
-  font-family: 'Play';
-}
-
-/*FONTS*/
-.jppv-subheader {
-  font-family: Roboto;
-  font-style: normal;
-  font-weight: normal;
-  line-height: 20px;
-  font-size: 16px;
-  color: #0A1D2E;
-}
-
-.nav-link {
-  font-family: Roboto;
-  font-style: normal;
-  font-weight: 500;
-  line-height: 40px;
-  font-size: 16px;
-  text-align: center;
-  letter-spacing: -0.4px;
-  color: #0A1D2E;
-}
-
-/*BUTTONS*/
-/*IMAGES*/
-.top-logo-img {
-  width: 121px;
-  height: 76px;
-}
-
-/*MAIN MENU*/
 .navbar {
   background-color: #fff;
 }
@@ -61,15 +30,98 @@
   border: 2px solid #06A77D;
 }
 
-/* Base styles for simple browsers. */
-/*FONTS*/
-#tomoru-img-macbook-right {
-  background-repeat: no-repeat;
-  background-size: 50%;
-  background-position: right;
-  background-image: url("../img/macbook-mobile.png");
+.block-100 {
+  height: 100px;
 }
 
+.block-230 {
+  height: 230px;
+}
+
+/*MAIN PAGE*/
+.main-page-block-1 {
+  background-color: white;
+  width: 250%;
+  margin-top: 240px;
+}
+
+* {
+  font-family: 'Play';
+}
+
+/*FONTS*/
+h1 {
+  font-family: Play;
+  font-style: normal;
+  font-weight: bold;
+  line-height: 48px;
+  font-size: 48px;
+  color: #0A1D2E;
+}
+
+h2 {
+  font-family: Play;
+  font-style: normal;
+  font-weight: bold;
+  line-height: 32px;
+  font-size: 32px;
+  color: #0A1D2E;
+}
+
+h3 {
+  font-family: Play;
+  font-style: normal;
+  font-weight: bold;
+  line-height: 24px;
+  font-size: 24px;
+  color: #16181B;
+}
+
+.gray-text {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 20px;
+  font-size: 16px;
+  color: #ACB3BF;
+}
+
+.jppv-subheader {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 20px;
+  font-size: 16px;
+  color: #0A1D2E;
+}
+
+.nav-link {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 40px;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: -0.4px;
+  color: #0A1D2E;
+}
+
+/*IMAGES*/
+.top-logo-img {
+  width: 121px;
+  height: 76px;
+}
+
+.main-page-image-1 {
+  background-image: url("../img/pano.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  z-index: 1;
+}
+
+/* Base styles for simple browsers. */
+/*PHONES*/
 @media only screen and (min-width: 320px) {
   /* Old phones */
 }
@@ -80,10 +132,7 @@
 
 @media only screen and (min-width: 768px) {
   /* Tablets — portrait. */
-  /*FONTS*/
-  #tomoru-img-macbook-right {
-    background-image: none;
-  }
+  /*DESKTOPS*/
 }
 
 @media only screen and (min-width: 992px) {

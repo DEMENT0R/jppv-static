@@ -39,11 +39,13 @@ html {
 .bg_1 {
 /*	height:600px;
 	line-height:600px;*/
+
 }
 
 .bg_2 {
 /*	height:600px;
 	line-height:600px;*/
+	height: 100vh;
 }
 
 .bg_3 {

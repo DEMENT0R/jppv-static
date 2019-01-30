@@ -9,14 +9,54 @@
       <!-- </div> -->
 
     <div class="">
-      <div id="land_1" class="landingItem bg_1">
-    			<div class="decoy">Платформа</div>
+      <!-- LANDING BLOCK 1 -->
+      <div id="land_1" class="landingItem bg_1 row">
+    			<!-- <div class="decoy">Платформа</div> -->
+          <div class="d-none d-md-block col-md-1" style="height: 90vh;"></div>
+          <div class="d-none d-md-block col-md-1 mt-auto mb-0 text-center">с<br>т<br>р<br>е<br>л<br>к<br>и</div>
+          <div class="d-none d-md-block col-12 col-md-2" style="overflow: visible; z-index: 999;">
+            <div class="main-page-block-1 pr-3 pl-0">
+              <div class="d-none d-md-block block-100 d-none d-md-block"></div>
+              <h1>Платформа поддержки японских инвестиций на Дальнем Востоке</h1>
+              <p>Инициирована и создана Банком Японии для Международного Сотрудничества, Фондом развития Дальнего Востока и Байкальского региона и Агентством по привлечению инвестиций.</p>
+              <a href="#" class="btn btn-info">Будет кнопка</a>
+              <div class="d-none d-md-block block-100 d-none d-md-block"></div>
+            </div>
+          </div>
+          <div class="main-page-image-1 col-md-8"></div>
       </div>
-      <div id="land_2" class="landingItem bg_2">
-    			<div class="decoy">Пресс-центр</div>
+      <!-- LANDING BLOCK 2 -->
+      <div id="land_2" class="landingItem bg_2 row">
+    			<!-- <div class="decoy">Пресс-центр</div> -->
+          <div class="col-md-1" style="height: 90vh;"></div>
+          <div class="col-md-1 mt-auto mb-0 text-center">с<br>т<br>р<br>е<br>л<br>к<br>и</div>
+          <div class="col-12 col-md-2 pl-0">
+            <div class="block-230"></div>
+            <h2>Пресс - центр</h2>
+          </div>
+          <div class="col-12 col-md-3 pl-0">
+            <div class="block-230"></div>
+            <img src="https://api.fnkr.net/testimg/640x450/ACB3BF/FFF/?text=JPG" width="100%">
+            <h3 class="mt-3">Название проекта с изображением</h3>
+            <p>Описание статьи для холодных климатических зон, системы утилизации отходов, борьба с транспортными заторами, улучшение способов использования земель и существующих сооружений</p>
+            <p class="gray-text">20 сентября 2018</p>
+            <hr>
+          </div>
+          <div class="col-12 col-md-3">
+            <div class="block-230"></div>
+            <h3>Короткое название проекта</h3>
+            <p>Описание статьи для холодных климатических зон, системы утилизации отходов, борьба с транспортными заторами, улучшение способов использования земель и существующих сооружений</p>
+            <p class="gray-text">20 сентября 2018</p>
+            <hr>
+
+            <h3>Очень длинное название проекта в две строки</h3>
+            <p>Описание статьи для холодных климатических зон, системы утилизации отходов, борьба с транспортными заторами, улучшение способов использования земель и существующих сооружений</p>
+            <p class="gray-text">20 сентября 2018</p>
+            <hr>
+          </div>
       </div>
+      <!-- LANDING BLOCK 3 -->
       <div id="land_3" class="landingItem bg_3">
     			<div class="decoy">Карта</div>
       </div>
     </div>
-    

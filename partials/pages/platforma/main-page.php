@@ -79,7 +79,7 @@
                 <img src="img/dv_map.svg" usemap="#image-map">
 
                 <map name="image-map">
-                    <area id="map-dv-btn" target="" alt="VL" title="VL" href="#" coords="327,729,336,720,325,691,332,679,348,677,352,641,358,629,371,634,389,616,381,606,396,595,402,613,401,644,386,693,363,719,347,714,334,735" shape="poly">
+                    <area id="map-dv-btn" target="" alt="VL" title="VL" href="#map-vl" coords="327,729,336,720,325,691,332,679,348,677,352,641,358,629,371,634,389,616,381,606,396,595,402,613,401,644,386,693,363,719,347,714,334,735" shape="poly">
                 </map>
               </div>
               <div class="col-2">
@@ -118,7 +118,7 @@
                 <img src="img/dv_map_vl.svg" usemap="#image-map">
 
                 <map name="image-map">
-                    <area target="" alt="VL" title="VL" href="#" coords="327,729,336,720,325,691,332,679,348,677,352,641,358,629,371,634,389,616,381,606,396,595,402,613,401,644,386,693,363,719,347,714,334,735" shape="poly">
+                    <area id="map-vl-btn" target="" alt="VL" title="VL" href="#map-vl" coords="327,729,336,720,325,691,332,679,348,677,352,641,358,629,371,634,389,616,381,606,396,595,402,613,401,644,386,693,363,719,347,714,334,735" shape="poly">
                 </map>
               </div>
               <div class="col-2">
@@ -144,7 +144,7 @@
             <script>
               //hide all
               $("#map-vl").hide();
-              
+
               $("#map-dv-btn").click(function(){
                 $("#map-dv").hide();
                 $("#map-vl").show();

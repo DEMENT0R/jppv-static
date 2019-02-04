@@ -60,6 +60,7 @@
       <div id="land_3" class="landingItem bg_3">
     			<!-- <div class="decoy">Карта</div> -->
           <div class="block-230"></div>
+          <div>
           <div class="main-page-map-image-0 row">
             <div class="col-1 bg-white"></div>
             <div class="col-3 offset-1">
@@ -98,6 +99,7 @@
               <h3 class="text-white">ПЛОТНОСТЬ НАСЕЛЕНИЯ</h3>
               <p class="text-white">Уровень зарплаты выше среднего показателя по России на 23%</p>
             </div>
+          </div>
           </div>
       </div>
     </div>

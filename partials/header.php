@@ -22,13 +22,13 @@
               <a class="nav-link" href="#">Платформа</a>
             </li>
             <li class="nav-item d-block d-md-inline-block">
-              <a class="nav-link" href="#">Инвестору</a>
+              <a class="nav-link" href="/investoru">Инвестору</a>
             </li>
             <li class="nav-item d-block d-md-inline-block">
-              <a class="nav-link" href="#">Пресс-центр</a>
+              <a class="nav-link" href="/press-centr">Пресс-центр</a>
             </li>
             <li class="nav-item d-block d-md-inline-block">
-              <a class="nav-link" href="#">Контакты</a>
+              <a class="nav-link" href="/contacts">Контакты</a>
             </li>
           </ul>
         </div>

@@ -61,7 +61,7 @@
     			<!-- <div class="decoy">Карта</div> -->
           <div class="block-230"></div>
           <div class=" d-none d-md-block">
-            <div id="map-dv" class="main-page-map-image-0 row">
+            <div id="map-dv" class="main-page-map-image-dv row">
               <div class="col-1 bg-white"></div>
               <div class="col-3 offset-1">
                 <h2 class="text-white mt-5">Дальний Восток</h2>
@@ -100,7 +100,7 @@
                 <p class="text-white">Уровень зарплаты выше среднего показателя по России на 23%</p>
               </div>
             </div>
-            <div id="map-vl" class="main-page-map-image-1 row">
+            <div id="map-vl" class="main-page-map-image-vl row">
               <div class="col-1 bg-white"></div>
               <div class="col-3 offset-1">
                 <h2 class="text-white mt-5">Дальний Восток</h2>

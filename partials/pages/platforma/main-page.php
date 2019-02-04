@@ -81,12 +81,6 @@
                 <map name="image-map">
                     <area id="map-dv-btn" target="" alt="VL" title="VL" href="#" coords="327,729,336,720,325,691,332,679,348,677,352,641,358,629,371,634,389,616,381,606,396,595,402,613,401,644,386,693,363,719,347,714,334,735" shape="poly">
                 </map>
-                <script>
-                  $("#map-dv-btn").click(function(){
-                    $("#map-dv").hide();
-                    $("#map-vl").show();
-                  });
-                </script>
               </div>
               <div class="col-2">
                 <div class="block-100"></div>
@@ -106,7 +100,7 @@
                 <p class="text-white">Уровень зарплаты выше среднего показателя по России на 23%</p>
               </div>
             </div>
-            <div id="map-vl" class="main-page-map-image-1 row d-none">
+            <div id="map-vl" class="main-page-map-image-1 row">
               <div class="col-1 bg-white"></div>
               <div class="col-3 offset-1">
                 <h2 class="text-white mt-5">Дальний Восток</h2>
@@ -145,6 +139,17 @@
                 <p class="text-white">Уровень зарплаты выше среднего показателя по России на 23%</p>
               </div>
             </div>
+
+            <!-- JQuery map buttons events handlers -->
+            <script>
+              //hide all
+              $("#map-vl").hide();
+              
+              $("#map-dv-btn").click(function(){
+                $("#map-dv").hide();
+                $("#map-vl").show();
+              });
+            </script>
           </div>
       </div>
     </div>

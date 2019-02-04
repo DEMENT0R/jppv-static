@@ -1,7 +1,8 @@
                         <div class="entry-content">
                             <div class="row col-12 m-0 p-0">
-                                <div class="col-12 col-md-6">
-                                    <h1>Контакты</h1>
+                                <div class="col-md-1"></div>
+                                <div class="col-12 col-md-5">
+                                    <h1 class="col-4 offset-3 pl-1">Контакты</h1>
                                     <div class="row p-2">
                                         <div class="col-3">Адрес</div>
                                         <div class="col-9 text-bold">690091 Lorem ipsum dolor sit amet,

@@ -1,4 +1,5 @@
 <body>
+<?php include 'partials/left-menu.php'; ?>
   <div class="container-fluid">
     <?php include 'header.php'; ?>
 

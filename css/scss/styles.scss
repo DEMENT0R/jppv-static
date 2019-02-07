@@ -6,6 +6,7 @@
 
 /* Base styles for simple browsers. */
 @import '_phones.scss';
+@import '_left_menu_phones.scss';
 
 @media only screen and (min-width: 320px) {
 	/* Old phones */
@@ -20,6 +21,7 @@
 @media only screen and (min-width: 768px) {
 	/* Tablets — portrait. */
 	@import '_desktops.scss';
+	@import '_left_menu_desktop.scss';
 }
 
 @media only screen and (min-width: 992px) {

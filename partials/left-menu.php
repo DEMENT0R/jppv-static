@@ -19,6 +19,9 @@
 		<br><br><br>
 		<a href="/policy" class="text-white">Политика обработки персональных данных</a>
 	</nav>
+
+	<div class="mask-content"></div>
+
 	<script>
 		function show_send_block () {
 			$('#nav-toggle').click();

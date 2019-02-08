@@ -13,7 +13,9 @@
       <div id="land_1" class="landingItem bg_1 row">
     			<!-- <div class="decoy">Платформа</div> -->
           <div class="d-none d-md-block col-md-1" style="height: 90vh;"></div>
-          <div class="d-none d-md-block col-md-1 mt-auto mb-0 text-center">с<br>т<br>р<br>е<br>л<br>к<br>и</div>
+          <div class="d-none d-md-block col-md-1 mt-auto mb-0 text-center">
+            <a href="#"><img src="/img/icons/arrow-down.svg" alt="Вниз!"></a>
+          </div>
           <div class="d-none d-md-block col-12 col-md-2" style="overflow: visible; z-index: 999;">
             <div class="main-page-block-1 pr-3 pl-0">
               <div class="d-none d-md-block block-100 d-none d-md-block"></div>
@@ -30,7 +32,10 @@
       <div id="land_2" class="landingItem bg_2 row">
     			<!-- <div class="decoy">Пресс-центр</div> -->
           <div class="col-md-1" style="height: 90vh;"></div>
-          <div class="col-md-1 mt-auto mb-0 text-center">с<br>т<br>р<br>е<br>л<br>к<br>и</div>
+          <div class="col-md-1 mt-auto mb-0 text-center">
+            <a href="#"><img src="/img/icons/arrow-up.svg" alt="Вверх!"></a><br>
+            <a href="#"><img src="/img/icons/arrow-down.svg" alt="Вниз!"></a>
+          </div>
           <div class="col-12 col-md-2 pl-0">
             <div class="block-230"></div>
             <h2>Пресс - центр</h2>

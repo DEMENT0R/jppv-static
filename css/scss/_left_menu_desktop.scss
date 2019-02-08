@@ -106,7 +106,7 @@
 */
  
 
-[id='nav-toggle']:checked ~ .jppv-content, input[type=checkbox]:checked ~ .jppv-content {
+[id='nav-toggle']:checked ~ .jppv-content, [id='nav-toggle']:checked ~ header {
     -webkit-transform: translateX(30vw);
     -moz-transform: translateX(30vw);
     -ms-transform: translateX(30vw);

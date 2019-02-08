@@ -1,5 +1,5 @@
     <header class="body-header">
-      <nav class="navbar navbar-expand-lg row">
+      <nav class="navbar navbar-expand-lg row pr-0">
 
         <div class="col-12 col-md-1 offset-md-1 row">
           <button class="navbar-toggler row" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
@@ -12,14 +12,14 @@
         <div class="d-none d-md-block col-1">Jp</div>
         <div class="d-none d-md-block col-1">
           <form name="test" method="post" action="blank.php">
-            <input type="text" style="width: 121px; height: 30px;">
+            <input type="text" style="width: 121px; height: 30px;" placeholder="Поиск">
           </form>
         </div>
 
-        <div class="collapse navbar-collapse col-3 offset-3" id="navbarTogglerDemo01">
-          <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+        <div class="collapse navbar-collapse col-4 offset-2 mr-0" id="navbarTogglerDemo01">
+          <ul class="navbar-nav mr-auto mt-2 mt-xl-0 ml-auto mr-0">
             <li class="nav-item d-block d-md-inline-block">
-              <a class="nav-link" href="#">Платформа</a>
+              <a class="nav-link" href="/platforma">Платформа</a>
             </li>
             <li class="nav-item d-block d-md-inline-block">
               <a class="nav-link" href="/investoru">Инвестору</a>

@@ -2,7 +2,7 @@
 /* CSS Start */
 
 @import '_default.scss';
-@import '_fonts.scss';
+@import '_fonts_adaptive.scss';
 @import '_images.scss';
 @import '_buttons.scss';
 
@@ -22,18 +22,18 @@
 
 @media only screen and (min-width: 768px) {
 	/* Tablets — portrait. */
-	@import '_desktops.scss';
-	@import '_left_menu_desktop.scss';
+	
 }
 
 @media only screen and (min-width: 992px) {
 	/* Landscape tablets, notebooks, desktop. */
-	
+	@import '_desktops.scss';
+	@import '_left_menu_desktop.scss';
 }
 
 @media only screen and (min-width: 1382px) {
 	/* Hires desktops, TVs. */
-
+	@import '_fonts.scss';
 }
 
 /* CSS End */

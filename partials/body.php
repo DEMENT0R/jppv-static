@@ -10,8 +10,11 @@
     		// echo "REQUEST_URI = ".$_SERVER['REQUEST_URI'];
     		 
     		if ($_GET['_route'] == "") {
-    			include 'partials/pages/platforma/main-page.php';
+    			include 'partials/pages/main-page.php';
     		}
+            if ($_GET['_route'] == "platforma") {
+                include 'partials/pages/platforma/platforma.php';
+            }
     		if ($_GET['_route'] == "investoru") {
     			include 'partials/pages/investoru/investoru.php';
     		}

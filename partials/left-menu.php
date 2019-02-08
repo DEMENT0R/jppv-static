@@ -1,6 +1,6 @@
 	<!-- Left menu -->
 	<div id="left-full-button" onclick="show_send_block ()">
-		<a href="#" class="d-none d-md-inline"><img src="/wp-content/themes/jppv/img/red_cross.png" alt="" align="center"> Оставить обращение</a>
+		<a href="#" class="d-none d-md-inline"><img src="/img/icons/red_cross.png" alt="" align="center"> Оставить обращение</a>
 	</div>
 
 	<input type="checkbox" id="nav-toggle" hidden>

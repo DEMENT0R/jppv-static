@@ -106,7 +106,7 @@
 */
  
 
-[id='nav-toggle']:checked ~ .site-main, input[type=checkbox]:checked ~ .section {
+[id='nav-toggle']:checked ~ .jppv-content, input[type=checkbox]:checked ~ .section {
     -webkit-transform: translateX(30vw);
     -moz-transform: translateX(30vw);
     -ms-transform: translateX(30vw);

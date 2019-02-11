@@ -17,7 +17,7 @@
 			<a href="#" class="next-button">Отправить</a>
 		</ul>
 		<br><br><br>
-		<a href="/privacy" class="text-white">Политика обработки персональных данных</a>
+		<a href="/policy" class="text-white">Политика обработки персональных данных</a>
 	</nav>
 
 	<div class="mask-content"></div>

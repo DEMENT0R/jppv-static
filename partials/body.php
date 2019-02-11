@@ -27,8 +27,8 @@
     		}
 
             // MISC PAGES
-            if ($_GET['_route'] == "privacy") {
-                include 'partials/pages/privacy.php';
+            if ($_GET['_route'] == "policy") {
+                include 'partials/pages/policy.php';
             }
     	 ?>
 

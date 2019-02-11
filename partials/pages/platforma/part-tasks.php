@@ -7,40 +7,35 @@
                   </div>
                   <div class="col-6"><h3>Медицина, увеличение продолжительности жизни</h3></div>
                   <div class="col-6"><p>Сотрудничество в сферах охраны здоровья, профилактики заболеваний, реабилитационной и паллиативной медицины, педиатрии</p></div>
-                  <hr>
+                  <hr class="col-12">
                   <div class="col-12">
                         <img src="img/platforma/2.jpg" alt="" width="100%">
                   </div>
                   <p>text</p>
-                  <hr>
+                  <hr class="col-12">
                   <div class="col-12">
                         <img src="img/platforma/3.jpg" alt="" width="100%">
                   </div>
                   <p>text</p>
-                  <hr>
+                  <hr class="col-12">
                   <div class="col-12">
                         <img src="img/platforma/4.jpg" alt="" width="100%">
                   </div>
                   <p>text</p>
-                  <hr>
+                  <hr class="col-12">
                   <div class="col-12">
                         <img src="img/platforma/5.jpg" alt="" width="100%">
                   </div>
                   <p>text</p>
-                  <hr>
+                  <hr class="col-12">
                   <div class="col-12">
                         <img src="img/platforma/6.jpg" alt="" width="100%">
                   </div>
                   <p>text</p>
-                  <hr>
+                  <hr class="col-12">
                   <div class="col-12">
                         <img src="img/platforma/7.jpg" alt="" width="100%">
                   </div>
                   <p>text</p>
-                  <hr>
-                  <div class="col-12">
-                        <img src="img/platforma/8.jpg" alt="" width="100%">
-                  </div>
-                  <p>text</p>
-                  <hr>
+                  <hr class="col-12">
             </div>

@@ -8,7 +8,8 @@
     	<?php 
     		//echo "ROUTE = ".$_GET['_route'];
     		// echo "REQUEST_URI = ".$_SERVER['REQUEST_URI'];
-    		 
+    		
+            // MAIN PAGES
     		if ($_GET['_route'] == "") {
     			include 'partials/pages/main-page.php';
     		}
@@ -25,6 +26,10 @@
     			include 'partials/pages/contacts.php';
     		}
 
+            // MISC PAGES
+            if ($_GET['_route'] == "privacy") {
+                include 'partials/pages/privacy.php';
+            }
     	 ?>
 
 		<?php 

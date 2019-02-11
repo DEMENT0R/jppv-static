@@ -1,5 +1,5 @@
             <h1>Руководство</h1>
-			<img src="https://api.fnkr.net/testimg/350x200/00CED1/FFF/?text=img+placeholder">
+			<img src="/img/platforma/hachai_aleksey_igorevich.jpg" alt="Хачай Алексей Игоревич" width="100%">
             <h3>Хачай Алексей Игоревич</h3>
             <p>Генеральный директор</p>
             <p>

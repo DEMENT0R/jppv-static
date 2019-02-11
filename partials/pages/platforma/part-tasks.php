@@ -1,3 +1,27 @@
             <h1>Цели и задачи</h1>
-            <p>Способствует интенсификации контактов, обмену информацией, повышению качества этой информации. Станет связующим звеном между японским капиталом и российскими инвестиционными возможностями, проводником и катализатором экономического взаимодействия России и Японии. </p>
-            <img src="img/platforma-img-1.svg" alt="" width="100%">
+            <h3>Стратегическая цель платформы</h3>
+            <p>Повышение благосостояния жителей Дальнего Востока России и улучшение экономического состояния региона</p>
+            <img src="img/platforma/1.jpg" alt="" width="100%">
+            <p>text</p>
+            <hr>
+            <img src="img/platforma/2.jpg" alt="" width="100%">
+            <p>text</p>
+            <hr>
+            <img src="img/platforma/3.jpg" alt="" width="100%">
+            <p>text</p>
+            <hr>
+            <img src="img/platforma/4.jpg" alt="" width="100%">
+            <p>text</p>
+            <hr>
+            <img src="img/platforma/5.jpg" alt="" width="100%">
+            <p>text</p>
+            <hr>
+            <img src="img/platforma/6.jpg" alt="" width="100%">
+            <p>text</p>
+            <hr>
+            <img src="img/platforma/7.jpg" alt="" width="100%">
+            <p>text</p>
+            <hr>
+            <img src="img/platforma/8.jpg" alt="" width="100%">
+            <p>text</p>
+            <hr>

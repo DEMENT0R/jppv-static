@@ -56,19 +56,19 @@
           <div class="col-12 col-md-6 pl-0">
             <div class="block-100"></div>
             <div id="block-platforma">
-				<?php include 'partials/pages/platforma/part-main.php'; ?>
+				<?php include 'partials/pages/platforma/part-platforma.php'; ?>
             </div>
             <div id="block-tasks">
-				<?php include 'partials/pages/platforma/part-main.php'; ?>
+				<?php include 'partials/pages/platforma/part-tasks.php'; ?>
             </div>
             <div id="block-actions">
-				<?php include 'partials/pages/platforma/part-main.php'; ?>
+				<?php include 'partials/pages/platforma/part-platforma.php'; ?>
             </div>
             <div id="block-leaders">
-				<?php include 'partials/pages/platforma/part-main.php'; ?>
+				<?php include 'partials/pages/platforma/part-platforma.php'; ?>
             </div>
             <div id="block-bank">
-				<?php include 'partials/pages/platforma/part-main.php'; ?>
+				<?php include 'partials/pages/platforma/part-platforma.php'; ?>
             </div>
           </div>
       </div>

@@ -17,36 +17,36 @@
             <script>
             	// First run
             	hide_all ();
-            	$( "#block-platforma" ).show();
+            	//$( "#block-platforma" ).show();
 
-				$( "#link-platforma" ).click(function() {
-					hide_all ();
-					$( "#block-platforma" ).show();
-				});
-				$( "#link-tasks" ).click(function() {
-					hide_all ();
-					$( "#block-tasks" ).show();
-				});
-				$( "#link-actions" ).click(function() {
-					hide_all ();
-					$( "#block-actions" ).show();
-				});
-				$( "#link-leaders" ).click(function() {
-					hide_all ();
-					$( "#block-leaders" ).show();
-				});
-				$( "#link-bank" ).click(function() {
-					hide_all ();
-					$( "#block-bank" ).show();
-				});
-            	
-				function hide_all () {
-					$( "#block-platforma" ).hide();
-					$( "#block-tasks" ).hide();
-					$( "#block-actions" ).hide();
-					$( "#block-leaders" ).hide();
-					$( "#block-bank" ).hide();
-				}
+      				$( "#link-platforma" ).click(function() {
+      					hide_all ();
+      					$( "#block-platforma" ).show();
+      				});
+      				$( "#link-tasks" ).click(function() {
+      					hide_all ();
+      					$( "#block-tasks" ).show();
+      				});
+      				$( "#link-actions" ).click(function() {
+      					hide_all ();
+      					$( "#block-actions" ).show();
+      				});
+      				$( "#link-leaders" ).click(function() {
+      					hide_all ();
+      					$( "#block-leaders" ).show();
+      				});
+      				$( "#link-bank" ).click(function() {
+      					hide_all ();
+      					$( "#block-bank" ).show();
+      				});
+                  	
+      				function hide_all () {
+      					$( "#block-platforma" ).hide();
+      					$( "#block-tasks" ).hide();
+      					$( "#block-actions" ).hide();
+      					$( "#block-leaders" ).hide();
+      					$( "#block-bank" ).hide();
+      				}
             </script>
           </div>
           <div class="col-12 col-md-1 pl-0">

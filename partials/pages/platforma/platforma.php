@@ -16,8 +16,11 @@
             </p>
             <script>
             	// First run
-            	hide_all ();
-            	//$( "#block-platforma" ).show();
+              $( document ).ready(function() {
+                hide_all ();
+                $( "#block-platforma" ).show();
+              });
+
 
       				$( "#link-platforma" ).click(function() {
       					hide_all ();

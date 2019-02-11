@@ -66,7 +66,7 @@
       <!-- LANDING BLOCK 3 -->
       <div id="land_3" class="landingItem bg_3">
     			<!-- <div class="decoy">Карта</div> -->
-          <div class="block-230"></div>
+          <!-- <div class="block-230"></div> -->
           <div class=" d-none d-md-block">
             <?php include 'partials/pages/map/map.php'; ?>
           </div>

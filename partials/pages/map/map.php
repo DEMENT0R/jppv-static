@@ -15,3 +15,10 @@
                 $("#map-vl").show();
               });
             </script>
+
+            <script type="text/javascript" src="js/imageMapResizer.min.js"></script>
+            <script type="text/javascript">
+
+              $('map').imageMapResize();
+
+            </script>

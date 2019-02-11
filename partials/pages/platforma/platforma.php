@@ -62,13 +62,13 @@
 				<?php include 'partials/pages/platforma/part-tasks.php'; ?>
             </div>
             <div id="block-actions">
-				<?php include 'partials/pages/platforma/part-platforma.php'; ?>
+				<?php include 'partials/pages/platforma/part-actions.php'; ?>
             </div>
             <div id="block-leaders">
-				<?php include 'partials/pages/platforma/part-platforma.php'; ?>
+				<?php include 'partials/pages/platforma/part-leaders.php'; ?>
             </div>
             <div id="block-bank">
-				<?php include 'partials/pages/platforma/part-platforma.php'; ?>
+				<?php include 'partials/pages/platforma/part-bank.php'; ?>
             </div>
           </div>
       </div>

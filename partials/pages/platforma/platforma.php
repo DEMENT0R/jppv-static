@@ -55,11 +55,11 @@
           </div>
           <div class="col-12 col-md-6 pl-0">
             <div class="block-100"></div>
-            <div id="block-platforma">1</div>
-            <div id="block-tasks">2</div>
-            <div id="block-actions">3</div>
-            <div id="block-leaders">4</div>
-            <div id="block-bank">5</div>
+            <div id="block-platforma">platforma</div>
+            <div id="block-tasks">tasks</div>
+            <div id="block-actions">actions</div>
+            <div id="block-leaders">leaders</div>
+            <div id="block-bank">bank</div>
             <h1>Платформа</h1>
             <p>Способствует интенсификации контактов, обмену информацией, повышению качества этой информации. Станет связующим звеном между японским капиталом и российскими инвестиционными возможностями, проводником и катализатором экономического взаимодействия России и Японии. </p>
             <img src="img/platforma-img-1.svg" alt="" width="100%">

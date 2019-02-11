@@ -1,5 +1,4 @@
-      <div id="land_2" class="landingItem bg_2 row">
-    			<!-- <div class="decoy">Пресс-центр</div> -->
+      <div id="" class="row">
           <div class="col-md-1" style="height: 90vh;"></div>
           <div class="col-md-2">
             <div class="block-100"></div>

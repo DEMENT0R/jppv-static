@@ -15,13 +15,10 @@
               <a href="#" class="" id="link-bank">JBIK Bank</a>
             </p>
             <script>
-				function hide_all () {
-					$( "#block-platforma" ).hide();
-					$( "#block-tasks" ).hide();
-					$( "#block-actions" ).hide();
-					$( "#block-leaders" ).hide();
-					$( "#block-bank" ).hide();
-				}
+            	// First run
+            	hide_all ();
+            	$( "#block-platforma" ).show();
+
 				$( "#link-platforma" ).click(function() {
 					hide_all ();
 					$( "#block-platforma" ).show();
@@ -43,6 +40,13 @@
 					$( "#block-bank" ).show();
 				});
             	
+				function hide_all () {
+					$( "#block-platforma" ).hide();
+					$( "#block-tasks" ).hide();
+					$( "#block-actions" ).hide();
+					$( "#block-leaders" ).hide();
+					$( "#block-bank" ).hide();
+				}
             </script>
           </div>
           <div class="col-12 col-md-1 pl-0">

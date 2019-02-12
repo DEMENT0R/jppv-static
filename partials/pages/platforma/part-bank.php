@@ -22,3 +22,5 @@
             </p>
 
             <a href="https://www.jbic.go.jp">www.jbic.go.jp</a>
+
+            <div class="block-100"></div>

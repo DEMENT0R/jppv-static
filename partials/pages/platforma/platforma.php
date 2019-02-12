@@ -7,11 +7,11 @@
             <div class="block-230"></div>
             <div class="block-100"></div>
             <p>
-              <a href="#" id="link-platforma">Платформа</a><br>
-              <a href="#" id="link-tasks">Цели и задачи</a><br>
-              <a href="#" id="link-actions">Направление деятельности</a><br>
-              <a href="#" id="link-leaders">Руководство</a><br>
-              <a href="#" id="link-bank">JBIK Bank</a>
+              <a href="#" class="left-nav-link" id="link-platforma">Платформа</a><br>
+              <a href="#" class="left-nav-link" id="link-tasks">Цели и задачи</a><br>
+              <a href="#" class="left-nav-link" id="link-actions">Направление деятельности</a><br>
+              <a href="#" class="left-nav-link" id="link-leaders">Руководство</a><br>
+              <a href="#" class="left-nav-link" id="link-bank">JBIK Bank</a>
             </p>
             <script>
             	// First run

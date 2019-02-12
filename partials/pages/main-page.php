@@ -10,6 +10,7 @@
 
     <div class="">
       <!-- LANDING BLOCK 1 -->
+      <div style="height: 20px;"></div>
       <div id="land_1" class="landingItem bg_1 row">
     			<!-- <div class="decoy">Платформа</div> -->
           <div class="d-none d-md-block col-md-1" style="height: 90vh;"></div>

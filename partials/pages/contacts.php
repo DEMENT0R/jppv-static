@@ -1,4 +1,5 @@
                         <div class="entry-content">
+                            <div class="block-100"></div>
                             <div class="row col-12 m-0 p-0">
                                 <div class="col-md-1"></div>
                                 <div class="col-12 col-md-5">

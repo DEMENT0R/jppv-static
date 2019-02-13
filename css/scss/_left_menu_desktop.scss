@@ -218,7 +218,7 @@ body {
  * прикрутим трансфомации и плавные переходы
  */
  
-.left-nav > ul {
+.left-nav > ul, .left-nav > form {
     display: block;
     margin: 0;
     padding: 0;
@@ -226,7 +226,7 @@ body {
     width: 100%;
 }
  
-.left-nav > ul > li {
+.left-nav > ul > li, .left-nav > form > input {
     /*line-height: 2.5;*/
     opacity: 0;
     -webkit-transform: translateX(-50%);

@@ -7,7 +7,7 @@
           </div>
           <div class="col-12 col-md-1 pl-0">
             <div class="block-100"></div>
-            <p><a href="">Назад</a></p>
+            <p><a onclick="javascript:history.back(); return false;" href="#">Назад</a></p>
           </div>
           <div class="col-12 col-md-3 pl-0">
             <div class="block-100"></div>

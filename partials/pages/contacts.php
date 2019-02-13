@@ -4,24 +4,24 @@
                                 <div class="block-100 col-12"></div>
                                 <div class="col-md-1"></div>
                                 <div class="col-12 col-md-4">
-                                    <h1 class="col-4 offset-3 pl-1">Контакты</h1>
+                                    <h1 class="col-4 offset-3 pl-0">Контакты</h1>
                                     <div class="row p-2">
-                                        <div class="col-3">Адрес</div>
-                                        <div class="col-9 text-bold">690091 г. Владивосток, Океанский проспект,17- 403/1</div>
+                                        <div class="col-3 text-right">Адрес</div>
+                                        <div class="col-9 pl-0 text-bold">690091 г. Владивосток, Океанский проспект,17- 403/1</div>
                                     </div>
                                     <div class="row p-2">
-                                        <div class="col-3">Тел.</div>
-                                        <div class="col-9 text-bold">+7(423)294-93-61</div>
+                                        <div class="col-3 text-right">Тел.</div>
+                                        <div class="col-9 pl-0 text-bold">+7(423)294-93-61</div>
                                     </div>
                                     <div class="row p-2">
-                                        <div class="col-3">Email</div>
-                                        <div class="col-9 text-bold">info@jppv.ru</div>
+                                        <div class="col-3 text-right">Email</div>
+                                        <div class="col-9 pl-0 text-bold">info@jppv.ru</div>
                                     </div>
                                     <hr>
                                     <div class="row p-2">
-                                        <div class="col-3">Социальные сети</div>
-                                        <div class="col-9 text-bold">
-                                            <p>
+                                        <div class="col-3 text-right">Социальные сети</div>
+                                        <div class="col-9 pl-0 text-bold">
+                                            <p class="pl-0 ml-0">
                                                 <a href="#">Facebook</a><br>
                                                 <a href="#">Instagram</a><br>
                                                 <a href="#">Vkontakte</a>

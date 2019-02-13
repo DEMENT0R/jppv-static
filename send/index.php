@@ -10,7 +10,7 @@
 	$message = 'Имя: ' . $name . '<br>Тел: ' . $phone . '<br>Email: ' . $email . '<br>Коммент: ' . $other;
 	$headers = 'From: ' . $email . "\r\n" .
 		'MIME-Version: 1.0' . "\r\n" .
-		'Content-type: text/html; charset=UTF-8' . "\r\n" .
+		'Content-type: text/html; charset=utf-8' . "\r\n" .
 	    'Reply-To: webmaster@example.com' . "\r\n" .
 	    'X-Mailer: PHP/' . phpversion();
 

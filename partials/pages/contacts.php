@@ -1,5 +1,26 @@
                         <div class="entry-content">
-                            
+                            <style>
+                                .contacts-left-row {
+                                    font-family: Roboto;
+                                    font-style: normal;
+                                    font-weight: normal;
+                                    line-height: 20px;
+                                    font-size: 16px;
+                                    text-align: right;
+
+                                    color: #0A1D2E;
+                                }
+                                .contacts-right-row {
+                                    font-family: Play;
+                                    font-style: normal;
+                                    font-weight: bold;
+                                    line-height: 24px;
+                                    font-size: 24px;
+                                    letter-spacing: -0.02em;
+
+                                    color: #16181B;
+                                }
+                            </style>
                             <div class="row col-12 m-0 p-0">
                                 <div class="block-100 col-12"></div>
                                 <div class="col-md-1"></div>
@@ -8,25 +29,25 @@
                                         <h1 class="pl-0">Контакты</h1>
                                     </div>
                                     <div class="row p-2">
-                                        <div class="col-3 text-right">Адрес</div>
-                                        <div class="col-9 pl-0 text-bold">690091 г. Владивосток, Океанский проспект,17- 403/1</div>
+                                        <div class="col-3 text-right contacts-left-row">Адрес</div>
+                                        <div class="col-9 pl-0 text-bold contacts-right-row">690091 г. Владивосток, Океанский проспект,17- 403/1</div>
                                     </div>
                                     <div class="row p-2">
-                                        <div class="col-3 text-right">Тел.</div>
-                                        <div class="col-9 pl-0 text-bold">+7(423)294-93-61</div>
+                                        <div class="col-3 text-right contacts-left-row">Тел.</div>
+                                        <div class="col-9 pl-0 text-bold contacts-right-row">+7(423)294-93-61</div>
                                     </div>
                                     <div class="row p-2">
-                                        <div class="col-3 text-right">Email</div>
-                                        <div class="col-9 pl-0 text-bold">info@jppv.ru</div>
+                                        <div class="col-3 text-right contacts-left-row">Email</div>
+                                        <div class="col-9 pl-0 text-bold contacts-right-row">info@jppv.ru</div>
                                     </div>
                                     <hr>
                                     <div class="row p-2">
-                                        <div class="col-3 text-right">Социальные сети</div>
+                                        <div class="col-3 text-right contacts-left-row">Социальные сети</div>
                                         <div class="col-9 pl-0 text-bold">
                                             <p class="pl-0 ml-0">
-                                                <a href="#">Facebook</a><br>
-                                                <a href="#">Instagram</a><br>
-                                                <a href="#">Vkontakte</a>
+                                                <a href="#" class="contacts-right-row">Facebook</a><br>
+                                                <a href="#" class="contacts-right-row">Instagram</a><br>
+                                                <a href="#" class="contacts-right-row">Vkontakte</a>
                                             </p>
                                         </div>
                                     </div>

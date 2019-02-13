@@ -1,8 +1,13 @@
 <?php
-	$to      = 'dmntr@rambler.ru';
-	$subject = 'the subject';
-	$message = 'hello';
-	$headers = 'From: webmaster@example.com' . "\r\n" .
+	$to      = $_POST['to'];
+	$subject = $_POST['subject'];
+	$message = $_POST['message'];
+	$from    = $_POST['from'];
+
+	// $to      = 'dmntr@rambler.ru';
+	// $subject = 'the subject';
+	// $message = 'hello';
+	$headers = 'From: ' . $from . "\r\n" .
 	    'Reply-To: webmaster@example.com' . "\r\n" .
 	    'X-Mailer: PHP/' . phpversion();
 

@@ -19,10 +19,10 @@
 
 		<form action="send.php" method="post">
 			<input class="text-white" type="text" name="name" placeholder="ФИО" required>
-			<input class="text-white" type="text" name="phone" placeholder="ФИО" required>
+			<input class="text-white" type="text" name="phone" placeholder="Телефон" required>
 			<input class="text-white" type="text" name="email" placeholder="Укажите e-mail" required>
 			<input class="text-white" type="text" name="other" placeholder="Комментарий" required>
-			<input class="text-white next-button" type="submit" value="Отправить">
+			<input class="text-white next-button" type="submit" value="Отправить" style="border: none;">
 		</form>
 		<br><br><br>
 		<a href="/policy" class="text-white">Политика обработки персональных данных</a>

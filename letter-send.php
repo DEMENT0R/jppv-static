@@ -5,7 +5,7 @@
 	$email = $_POST['email'];
 	$other = $_POST['other'];
 
-	$to      = 'dmntr@rambler.ru';
+	$to      = 'info@jppv.ru';
 	$subject = 'Обращение на JPPV';
 	$message = 'Имя: ' . $name . '<br>Тел: ' . $phone . '<br>Email: ' . $email . '<br>Коммент: ' . $other;
 	$headers = 'From: ' . $email . "\r\n" .
@@ -15,6 +15,9 @@
 	    'X-Mailer: PHP/' . phpversion();
 
 	mail($to, $subject, $message, $headers);
+	//debug
+	mail('dmntr@rambler.ru', $subject, $message, $headers);
+	mail('dobalyura@gmail.com', $subject, $message, $headers);
 
 ?>
 

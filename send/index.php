@@ -12,4 +12,6 @@
 	    'X-Mailer: PHP/' . phpversion();
 
 	mail($to, $subject, $message, $headers);
+
+	echo "<h1>Ваше обращение успещно отправлено!</h1>";
 ?>

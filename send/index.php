@@ -7,8 +7,10 @@
 
 	$to      = 'dmntr@rambler.ru';
 	$subject = 'Обращение на JPPV';
-	$message = 'Имя: ' . $name . '\r\nТел: ' . $phone . '\r\nEmail: ' . $email . '\r\nКоммент: ' . $other;
+	$message = 'Имя: ' . $name . '<br>Тел: ' . $phone . '<br>Email: ' . $email . '<br>Коммент: ' . $other;
 	$headers = 'From: ' . $email . "\r\n" .
+		'MIME-Version: 1.0' . "\r\n" .
+		'Content-type: text/html; charset=iso-8859-1' . "\r\n" .
 	    'Reply-To: webmaster@example.com' . "\r\n" .
 	    'X-Mailer: PHP/' . phpversion();
 

@@ -7,7 +7,7 @@
 
 	$to      = 'dmntr@rambler.ru';
 	$subject = 'Обращение на JPPV';
-	$message = 'Имя: ' . $name . '<br>Тел: ' . $phone . '<br>Email: ' . $email . '<br>Коммент: ' . $other;
+	$message = 'Имя: ' . $name . '\r\nТел: ' . $phone . '\r\nEmail: ' . $email . '\r\nКоммент: ' . $other;
 	$headers = 'From: ' . $email . "\r\n" .
 	    'Reply-To: webmaster@example.com' . "\r\n" .
 	    'X-Mailer: PHP/' . phpversion();

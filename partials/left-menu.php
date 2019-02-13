@@ -17,7 +17,7 @@
 			<a href="#" class="next-button">Отправить</a>
 		</ul> -->
 
-		<form class="mx-auto" action="send/index.php" method="post">
+		<form class="mx-auto" action="letter-send.php" method="post">
 			<input class="text-white" type="text" name="name" placeholder="ФИО" required>
 			<input class="text-white" type="text" name="phone" placeholder="Телефон" required>
 			<input class="text-white" type="text" name="email" placeholder="Укажите e-mail" required>

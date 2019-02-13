@@ -23,4 +23,4 @@
 <p><?php echo $message; ?></p>
 
 <h3>Debug:</h3>
-<p><?php echo $_POST; ?></p>
+<p><?php var_dump($_POST); ?></p>

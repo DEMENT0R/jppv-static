@@ -27,6 +27,7 @@
                                 <div class="col-12 col-md-4">
                                     <div class="col-4 offset-3 pl-0">
                                         <h1 class="pl-0">Контакты</h1>
+                                        <div class="block-100"></div>
                                     </div>
                                     <div class="row p-2">
                                         <div class="col-3 text-right contacts-left-row">Адрес</div>

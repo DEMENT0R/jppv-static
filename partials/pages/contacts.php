@@ -4,7 +4,9 @@
                                 <div class="block-100 col-12"></div>
                                 <div class="col-md-1"></div>
                                 <div class="col-12 col-md-4">
-                                    <h1 class="col-4 offset-3 pl-0">Контакты</h1>
+                                    <div class="col-4 offset-3 pl-0">
+                                        <h1 class="pl-0">Контакты</h1>
+                                    </div>
                                     <div class="row p-2">
                                         <div class="col-3 text-right">Адрес</div>
                                         <div class="col-9 pl-0 text-bold">690091 г. Владивосток, Океанский проспект,17- 403/1</div>

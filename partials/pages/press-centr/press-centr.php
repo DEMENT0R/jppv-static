@@ -3,11 +3,11 @@
           <div class="col-md-1" style="height: 90vh;"></div>
           <div class="col-md-2 text-gray">
             <div class="block-100"></div>
-            <p>Гланая / Пресс-центр</p>
+            <p><a href="">Главная</a> / <a href="">Пресс-центр</a></p>
           </div>
           <div class="col-12 col-md-1 pl-0">
             <div class="block-100"></div>
-            <p>Назад</p>
+            <p><a href="">Назад</a></p>
           </div>
           <div class="col-12 col-md-3 pl-0">
             <div class="block-100"></div>

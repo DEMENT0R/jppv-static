@@ -302,7 +302,7 @@ body {
     transition: color .5s ease, padding .5s ease;
 }
 
-.left-nav > ul > li > input {
+.left-nav > ul > li > input, .left-nav > form > input  {
     border: none;
     border-bottom: 2px solid #fff; 
     display: inline-block;
@@ -318,7 +318,7 @@ body {
     transition: color .5s ease, padding .5s ease;
 }
  
-.left-nav > ul > li > input::placeholder {
+.left-nav > ul > li > input::placeholder, .left-nav > form > input::placeholder {
     color: #fff;
 }
 

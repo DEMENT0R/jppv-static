@@ -6,6 +6,9 @@
 
 .navbar {
 	background-color: #fff;
+	position: fixed;
+    z-index: 99999;
+    width: 100%;
 }
 
 .nav-link {

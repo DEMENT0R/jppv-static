@@ -29,11 +29,12 @@
 	/* Landscape tablets, notebooks, desktop. */
 	@import '_desktops.scss';
 	@import '_left_menu_desktop.scss';
+	@import '_fonts.scss';
 }
 
 @media only screen and (min-width: 1382px) {
 	/* Hires desktops, TVs. */
-	@import '_fonts.scss';
+	
 }
 
 /* CSS End */

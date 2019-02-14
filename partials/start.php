@@ -12,7 +12,7 @@
   <link rel="stylesheet" href="css/animate.css">
   <!-- Main Styles -->
   <link href="https://fonts.googleapis.com/css?family=Fira+Sans" rel="stylesheet">
-  <link rel="stylesheet" href="css/styles.css?v=1">
+  <link rel="stylesheet" href="css/styles.css?v=2">
   <!-- <link rel="stylesheet" href="css/temp.css"> -->
   <!-- Landing navigation -->
   <!-- <link rel="stylesheet" href="css/demo.css"> -->

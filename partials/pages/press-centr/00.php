@@ -34,4 +34,3 @@ Prospect Co., Ltd. – японская компания, проявляющая
 	<a href="#">Ссылка на скачивание материалов</a>
 	<img src="img/icons/arrow-down-bold.svg" alt="">
 </h2>
-<div class="block-100"></div>

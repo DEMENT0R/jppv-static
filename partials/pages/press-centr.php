@@ -17,7 +17,7 @@
             } else {
               echo "<div class='col-12 col-md-6 pl-0'><div class='block-100'></div>";
               include 'partials/pages/press-centr/' . $_GET['date'] . '.php'; 
-              echo "</div>";
+              echo "<div class='block-100'></div></div>";
             }
           ?>
 

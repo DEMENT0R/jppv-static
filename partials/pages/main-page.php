@@ -68,8 +68,12 @@
       <div id="land_3" class="landingItem bg_3">
     			<!-- <div class="decoy">Карта</div> -->
           <!-- <div class="block-230"></div> -->
-          <div class=" d-none d-md-block">
+          <div class=" d-none d-md-block" style="position: relative;">
             <?php include 'partials/pages/map.php'; ?>
+            <div class="block-100 bg-white row" style="position: absolute; bottom: 0; left: 50%; margin-left:-25%; width: 60%; height: 140px; z-index: 999;">
+              <div class="col-3 offset-1 p-3"><a href="#land_1"><h2 class="mt-4"><img src="img/icons/arrow-circled-up.svg" alt=""> Вверх</h2></a></div>
+              <div class="col-3 offset-5 p-3"><a href="contacts"><h2 class="mt-4">Контакты <img src="img/icons/arrow-circled-right.svg" alt=""></h2></a></div>
+            </div>
           </div>
       </div>
     </div>

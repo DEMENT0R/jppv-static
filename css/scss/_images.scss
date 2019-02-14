@@ -19,18 +19,18 @@
 	z-index: 1;
 }
 
-.main-page-map-image-dv {
-	background-image: url('../img/slide-1-dv.png');
+.main-page-map-image {
+	//background: 50% 50% no-repeat;
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
 	// height: 80vh;
 }
 
+.main-page-map-image-dv {
+	background-image: url('../img/slide-1-dv.png');
+}
+
 .main-page-map-image-vl {
 	background-image: url('../img/slide-2-vl.png');
-	background-position: center;
-	background-size: cover;
-	background-repeat: no-repeat;
-	// height: 80vh;
 }

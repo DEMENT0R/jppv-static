@@ -1,4 +1,4 @@
-            <div id="map-vl" class="main-page-map-image-vl row">
+            <div id="map-vl" class="main-page-map-image main-page-map-image-vl row">
               <div class="col-1 bg-white"></div>
               <div class="col-3 offset-1">
                 <h2 class="text-white mt-5">Дальний Восток</h2>
@@ -11,7 +11,7 @@
               </div>
               <div class="col-5">
                 <!-- Image Map -->
-                <img src="img/dv_map_vl.svg" usemap="#image-map" width="100%">
+                <img src="img/dv_map_vl.svg" usemap="#image-map" width="80%">
 
                 <map name="image-map">
                     <area id="map-vl-btn" target="" alt="VL" title="VL" href="#map-vl" coords="327,729,336,720,325,691,332,679,348,677,352,641,358,629,371,634,389,616,381,606,396,595,402,613,401,644,386,693,363,719,347,714,334,735" shape="poly">

@@ -69,7 +69,7 @@
     			<!-- <div class="decoy">Карта</div> -->
           <!-- <div class="block-230"></div> -->
           <div class=" d-none d-md-block">
-            <?php include 'partials/pages/map/map.php'; ?>
+            <?php include 'partials/pages/map.php'; ?>
           </div>
       </div>
     </div>

@@ -12,15 +12,19 @@
             // MAIN PAGES
     		if ($_GET['_route'] == "") {
     			include 'partials/pages/main-page.php';
-    		}
+    		} else {
+                include 'partials/pages/' . $_GET['_route'] . '.php';
+            }
+
+            /*
             if ($_GET['_route'] == "platforma") {
-                include 'partials/pages/platforma/platforma.php';
+                include 'partials/pages/platforma.php';
             }
     		if ($_GET['_route'] == "investoru") {
-    			include 'partials/pages/investoru/investoru.php';
+    			include 'partials/pages/investoru.php';
     		}
     		if ($_GET['_route'] == "press-centr") {
-    			include 'partials/pages/press-centr/press-centr.php';
+    			include 'partials/pages/press-centr.php';
     		}
     		if ($_GET['_route'] == "contacts") {
     			include 'partials/pages/contacts.php';
@@ -30,6 +34,8 @@
             if ($_GET['_route'] == "policy") {
                 include 'partials/pages/policy.php';
             }
+            */
+
     	 ?>
 
 		<?php 

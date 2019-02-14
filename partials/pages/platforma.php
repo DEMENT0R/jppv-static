@@ -1,8 +1,9 @@
+      <div class="block-100"></div>
       <div id="" class="row">
           <div class="col-md-1" style="height: 90vh;"></div>
           <div class="col-md-2">
             <div class="block-100"></div>
-            <p class="mt-3 gray-text"><a href="/">Главная</a> / <a href="/platforma">Платформа</a></p>
+            <p class="mt-3"><a href="/">Главная</a> / <a href="/platforma">Платформа</a></p>
             <div class="block-230"></div>
             <div class="block-230"></div>
             <div class="block-100"></div>

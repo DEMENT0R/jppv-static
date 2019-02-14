@@ -69,7 +69,7 @@
 
       <!-- LANDING BLOCK 3 -->
       <div id="land_3" class="landingItem bg_3">
-        <div class="block-230"></div>
+        <div class="block-100"></div>
     			<!-- <div class="decoy">Карта</div> -->
           <!-- <div class="block-230"></div> -->
           <div class=" d-none d-md-block" style="position: relative;">

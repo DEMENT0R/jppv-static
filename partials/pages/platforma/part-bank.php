@@ -21,6 +21,6 @@
 				Банк выступил соучредителем созданной в 2018 году Платформы для поддержки японских инвестиций на Дальнем Востоке.
             </p>
 
-            <a href="https://www.jbic.go.jp">www.jbic.go.jp</a>
+            <a class="link-another" href="https://www.jbic.go.jp">www.jbic.go.jp <img src="img/icons/arrow-up-right-bold.svg" alt="JBIK"></a>
 
             <div class="block-100"></div>

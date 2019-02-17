@@ -2,13 +2,19 @@
 @import url('https://fonts.googleapis.com/css?family=Play');
 
 * {
-	font-family: 'Play';
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: normal;
+	line-height: 24px;
+	font-size: 16px;
+
+	color: #0A1D2E;
 }
 
 /*FONTS*/
 
 h1, h1 a {
-	font-family: Play;
+	font-family: 'Play';
 	font-style: normal;
 	font-weight: bold;
 	line-height: 48px;
@@ -18,7 +24,7 @@ h1, h1 a {
 }
 
 h2, h2 a {
-	font-family: Play;
+	font-family: 'Play';
 	font-style: normal;
 	font-weight: bold;
 	line-height: 32px;
@@ -28,7 +34,7 @@ h2, h2 a {
 }
 
 h3, h3 a {
-	font-family: Play;
+	font-family: 'Play';
 	font-style: normal;
 	font-weight: bold;
 	line-height: 24px;
@@ -37,8 +43,37 @@ h3, h3 a {
 	color: #16181B;
 }
 
+a {
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 500;
+	line-height: 40px;
+	font-size: 16px;
+	letter-spacing: -0.4px;
+
+	color: #0A1D2E;
+}
+
+a:hover {
+	text-decoration-line: underline;
+
+	color: #FF0000;
+}
+
+.link-another {
+	font-family: 'Play';
+	font-style: normal;
+	font-weight: bold;
+	line-height: 32px;
+	font-size: 32px;
+	letter-spacing: -0.02em;
+	text-decoration-line: underline;
+
+	color: #0A1D2E;
+}
+
 .gray-text {
-	font-family: Roboto;
+	font-family: 'Roboto';
 	font-style: normal;
 	font-weight: normal;
 	line-height: 20px;
@@ -48,7 +83,7 @@ h3, h3 a {
 }
 
 .jppv-subheader {
-	font-family: Roboto;
+	font-family: 'Roboto';
 	font-style: normal;
 	font-weight: normal;
 	line-height: 20px;
@@ -57,7 +92,7 @@ h3, h3 a {
 	color: #0A1D2E;
 }
 .nav-link {
-	font-family: Roboto;
+	font-family: 'Roboto';
 	font-style: normal;
 	font-weight: 500;
 	line-height: 40px;
@@ -80,7 +115,7 @@ h3, h3 a {
 }
 
 .button-back {
-	font-family: Roboto;
+	font-family: 'Roboto';
 	font-style: normal;
 	font-weight: 500;
 	line-height: 40px;

@@ -11,6 +11,7 @@
           </div>
 
           <div class="col-md-6">
+            <div class="block-100"></div>
             <h1>Результаты поиска</h1>
             <div class="block-100"></div>
             <h2>Раздел с упоминаниями ключевого слова</h2>

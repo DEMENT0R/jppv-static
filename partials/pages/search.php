@@ -13,8 +13,9 @@
           <div class="col-md-6">
             <div class="block-100"></div>
             <h1>Результаты поиска</h1>
-            <div class="block-100"></div>
             <h3>Запрос: <?php echo $_GET['query']; ?></h3>
+            <div class="block-100"></div>
+
             <h2>Раздел с упоминаниями ключевого слова</h2>
             <hr>
             <h2>Статья с упоминаниями ключевого слова</h2>

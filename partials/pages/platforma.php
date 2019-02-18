@@ -12,7 +12,7 @@
               <a href="#" class="left-nav-link" id="link-tasks">Цели и задачи</a><br>
               <a href="#" class="left-nav-link" id="link-actions">Направление деятельности</a><br>
               <a href="#" class="left-nav-link" id="link-leaders">Руководство</a><br>
-              <a href="#" class="left-nav-link" id="link-bank">JBIK Bank</a>
+              <!-- <a href="#" class="left-nav-link" id="link-bank">JBIK Bank</a> -->
             </p>
             <script>
             	// First run
@@ -48,7 +48,7 @@
       					$( "#block-tasks" ).hide();
       					$( "#block-actions" ).hide();
       					$( "#block-leaders" ).hide();
-      					$( "#block-bank" ).hide();
+      					// $( "#block-bank" ).hide();
       				}
             </script>
           </div>
@@ -59,19 +59,19 @@
           <div class="col-12 col-md-6 pl-0">
             <div class="block-100"></div>
             <div id="block-platforma">
-				<?php include 'partials/pages/platforma/part-platforma.php'; ?>
+				      <?php include 'partials/pages/platforma/part-platforma.php'; ?>
             </div>
             <div id="block-tasks">
-				<?php include 'partials/pages/platforma/part-tasks.php'; ?>
+				      <?php include 'partials/pages/platforma/part-tasks.php'; ?>
             </div>
             <div id="block-actions">
-				<?php include 'partials/pages/platforma/part-actions.php'; ?>
+				      <?php include 'partials/pages/platforma/part-actions.php'; ?>
             </div>
             <div id="block-leaders">
-				<?php include 'partials/pages/platforma/part-leaders.php'; ?>
+				      <?php include 'partials/pages/platforma/part-leaders.php'; ?>
             </div>
-            <div id="block-bank">
-				<?php include 'partials/pages/platforma/part-bank.php'; ?>
-            </div>
+<!--             <div id="block-bank">
+				      <?php //include 'partials/pages/platforma/part-bank.php'; ?>
+            </div> -->
           </div>
       </div>

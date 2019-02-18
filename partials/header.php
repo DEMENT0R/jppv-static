@@ -11,7 +11,7 @@
         <div class="d-none d-md-block col-2 jppv-subheader">Платформа для поддержки<br>японских инвестиций</div>
         <div class="d-none d-md-block col-1">Jp</div>
         <div class="d-none d-md-block col-1">
-          <form name="test" method="post" action="blank.php">
+          <form name="test" method="post" action="/search">
             <input type="text" style="width: 121px; height: 30px;" placeholder="Поиск">
           </form>
         </div>

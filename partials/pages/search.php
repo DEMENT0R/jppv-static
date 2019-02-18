@@ -31,6 +31,7 @@
           $results = array(); // Создаём массив для результатов поиска
           for ($i = 0; $i < count($files); $i++) {
             print_r($files[$i]);
+            echo "<br>";
             /* Перебираем все полученные файлы */
             $str = strip_tags(file_get_contents($files[$i])); // Помещаем содержимое файлов в переменную, предварительно убрав все html-теги
             $count = substr_count($str, $search); // Ищем количество вхождений искомой строки в файл

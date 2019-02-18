@@ -38,7 +38,11 @@
           return $results; // Возвращаем результат
         }
         $results = searchFiles(".", "ABC"); // Ищем файлы в текущей директории, в которых входит строка "ABC"
-        print_r($results); // Выводим массив
+        //print_r($results); // Выводим массив
       ?>
+
+      <script>
+        console.log (<?php print_r($results); ?>);
+      </script>
 
       </div>

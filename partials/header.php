@@ -12,7 +12,7 @@
         <div class="d-none d-md-block col-1">Jp</div>
         <div class="d-none d-md-block col-1">
           <form name="test" method="post" action="/search">
-            <input type="text" style="width: 121px; height: 30px;" placeholder="Поиск">
+            <input type="text" name="query" style="width: 121px; height: 30px;" placeholder="Поиск">
           </form>
         </div>
 

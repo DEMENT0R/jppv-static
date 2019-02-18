@@ -27,7 +27,7 @@
         searchFiles('partials/pages', $_GET['query']);
 
         function searchFiles($dir, $search) {
-          $files = glob($dir."/*.php"); // Получаем все php-файлы из директории
+          $files = glob($dir."/*"); // Получаем все php-файлы из директории
           $results = array(); // Создаём массив для результатов поиска
           for ($i = 0; $i < count($files); $i++) {
             /* Перебираем все полученные файлы */

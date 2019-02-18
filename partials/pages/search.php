@@ -39,7 +39,7 @@
                 }
                 return $results; // Возвращаем результат
               }
-              $results = searchFiles(".", "Платформа"); // Ищем файлы в текущей директории, в которых входит строка "ABC"
+              $results = searchFiles("partials/pages/press-centr", "Платформа"); // Ищем файлы в текущей директории, в которых входит строка "ABC"
               var_dump($results); // Выводим массив
             ?>
 

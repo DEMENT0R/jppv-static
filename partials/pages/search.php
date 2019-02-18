@@ -23,7 +23,7 @@
             <div class="block-100"></div>
 
             <?php
-              searchFiles('partials/pages', $_GET['query']);
+              searchFiles('partials/pages/press-centr', $_GET['query']);
 
               function searchFiles($dir, $search) {
                 $files = glob($dir."/*.php"); // Получаем все php-файлы из директории

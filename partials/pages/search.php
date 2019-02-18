@@ -22,6 +22,6 @@
             <hr>
             <div class="block-100"></div>
 
-            <?php include "partials/pages/search/test-search.php" ?>
+            <?php //include "partials/pages/search/test-search.php" ?>
           </div>
       </div>

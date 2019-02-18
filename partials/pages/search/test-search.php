@@ -19,9 +19,9 @@
               print_r($results); // Выводим массив
             ?>
 
-            <script>
-              console.log (<?php var_dump($results); ?>);
-            </script>
+            <!-- <script>
+              console.log (<?php //var_dump($results); ?>);
+            </script> -->
 
             <hr>
             <div class="block-100"></div>

@@ -20,7 +20,7 @@
             ?>
 
             <script>
-              console.log (<?php print_r($results); ?>);
+              console.log (<?php var_dump($results); ?>);
             </script>
 
             <hr>

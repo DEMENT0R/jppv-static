@@ -1,21 +1,21 @@
-            <div id="map-dv" class="main-page-map-image main-page-map-image-dv row">
+            <div id="map-chuk" class="main-page-map-image main-page-map-image-chuk row">
               <div class="col-1 bg-white"></div>
               <div class="col-3 offset-1">
                 <div class="block-100"></div>
                 <h2 class="text-white mt-5">Дальний Восток</h2>
                 <div class="block-100"></div>
-                <h3 class="text-white">Социально экономическая информация</h3>
+                <h3 class="text-white">Чукотский автономный округ</h3>
                 <p class="text-white">
-                  Дальний Восток – самая восточная часть территории России. Представляет собой крайний северо-восток Азии. Макрорегион имеет выход к двум океанам: Тихому и Северному Ледовитому, граничит с четырьмя государствами (Китаем, Японией, США, КНДР).
-
-                  9 дальневосточных регионов расположены в четырех часовых поясах и самых разных климатических зонах от арктических пустынь до субтропиков.
+                  - входит в тройку лидеров в экологическом рейтинге субъектов России, составленным общественной организацией «Зеленый патруль».<br>
+                  - на востоке имеет морскую границу с США.<br>
+                   <br>
+                  К конкурентным преимуществам округа относится территориальная близость к рынку стран Северной и Центральной Америки.<br>
                 </p>
-                
                 <a class="button-new" href="/investoru">Инвестору</a>
               </div>
               <div class="col-5">
                 <!-- Image Map -->
-                <img src="img/dv_map.svg" usemap="#image-map" width="80%">
+                <img src="img/dv_map_chuk.svg" usemap="#image-map" width="80%">
 
 <?php include 'partials/pages/map/_image-map.php' ?>
 

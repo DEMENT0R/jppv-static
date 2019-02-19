@@ -1,6 +1,7 @@
             <div id="map-dv" class="main-page-map-image main-page-map-image-dv row">
               <div class="col-1 bg-white"></div>
               <div class="col-3 offset-1">
+                <div class="block-100"></div>
                 <h2 class="text-white mt-5">Дальний Восток</h2>
                 <div class="block-100"></div>
                 <h3 class="text-white">Социально экономическая информация</h3>
@@ -20,9 +21,9 @@
                     <area id="map-dv-btn" target="" alt="VL" title="VL" href="#map-vl" coords="327,729,336,720,325,691,332,679,348,677,352,641,358,629,371,634,389,616,381,606,396,595,402,613,401,644,386,693,363,719,347,714,334,735" shape="poly">
                 </map>
               </div>
-              <div class="col-2 pr-5">
+              <div class="col-2" style="padding-right: 70px;">
                 <div class="block-100"></div>
-                <h2 class="text-white">6100 тыс. кв. км</h2>
+                <h2 class="text-white mt-5">6100 тыс. кв. км</h2>
                 <hr class="bg-white">
                 <h3 class="text-white">ПЛОЩАДЬ ДАЛЬНЕГО ВОСТОКА</h3>
                 <p class="text-white">Высокий ВРП - 268 000 руб. (на 19% выше среднего показателя по России)</p>

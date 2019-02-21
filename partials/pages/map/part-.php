@@ -6,9 +6,9 @@
                 <div class="block-100"></div>
                 <h3 class="text-white">___</h3>
                 <p class="text-white">
-                  "...<br>
+                  ...<br>
                   <br>
-                  ..."<br>
+                  ...<br>
                 </p>
                 
                 <a class="button-new" href="/investoru">Инвестору</a>

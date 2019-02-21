@@ -14,28 +14,58 @@
               hideAll ();
               $("#map-dv").show();
 
-              //VL
+              //vl
               $("area[href$='#map-vl']").click(function(){
                 hideAll ();
                 $("#map-vl").show();
               });
 
-              //Amursk
+              //amur
               $("area[href$='#map-amur']").click(function(){
                 hideAll ();
                 $("#map-amur").show();
               });
 
-              //Chukotka
+              //chuk
               $("area[href$='#map-chuk']").click(function(){
                 hideAll ();
                 $("#map-chuk").show();
               });
 
-              //EAO
+              //eao
               $("area[href$='#map-eao']").click(function(){
                 hideAll ();
                 $("#map-eao").show();
+              });
+
+              //kamch
+              $("area[href$='#map-kamch']").click(function(){
+                hideAll ();
+                $("#map-kamch").show();
+              });
+
+              //khb
+              $("area[href$='#map-khb']").click(function(){
+                hideAll ();
+                $("#map-khb").show();
+              });
+
+              //magadan
+              $("area[href$='#map-magadan']").click(function(){
+                hideAll ();
+                $("#map-magadan").show();
+              });
+
+              //saha
+              $("area[href$='#map-saha']").click(function(){
+                hideAll ();
+                $("#map-saha").show();
+              });
+
+              //skh
+              $("area[href$='#map-skh']").click(function(){
+                hideAll ();
+                $("#map-skh").show();
               });
 
               function hideAll () {

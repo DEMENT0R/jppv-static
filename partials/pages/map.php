@@ -5,7 +5,7 @@
             include 'partials/pages/map/part-amur.php'; 
             include 'partials/pages/map/part-chuk.php'; 
             include 'partials/pages/map/part-eao.php'; 
-            include 'partials/pages/map/part-kanch.php'; 
+            include 'partials/pages/map/part-kamch.php'; 
             include 'partials/pages/map/part-khb.php'; 
             include 'partials/pages/map/part-magadan.php'; 
             include 'partials/pages/map/part-saha.php'; 

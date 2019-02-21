@@ -15,7 +15,7 @@
               </div>
               <div class="col-5">
                 <!-- Image Map -->
-                <img src="img/dv_map_skh.svg" usemap="#image-map" width="80%">
+                <img src="img/map-bg/dv_map_skh.svg" usemap="#image-map" width="80%">
 
 <?php include 'partials/pages/map/_image-map.php' ?>
 

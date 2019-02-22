@@ -92,6 +92,17 @@
             <script type="text/javascript" src="js/imageMapResizer.min.js"></script>
             <script type="text/javascript">
 
-              $('map').imageMapResize();
+              //$('map').imageMapResize();
+
+              $('#dv').imageMapResize();
+              $('#vl').imageMapResize();
+              $('#amur').imageMapResize();
+              $('#chuk').imageMapResize();
+              $('#eao').imageMapResize();
+              $('#kamch').imageMapResize();
+              $('#khb').imageMapResize();
+              $('#magadan').imageMapResize();
+              $('#saha').imageMapResize();
+              $('#skh').imageMapResize();
 
             </script>

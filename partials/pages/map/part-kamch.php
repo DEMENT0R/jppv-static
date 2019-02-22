@@ -17,6 +17,7 @@
                 <!-- Image Map -->
                 <img src="img/map-bg/dv_map_kamch.svg" usemap="#image-map" width="80%">
 
+<?php $location = 'kamch'; ?>
 <?php include 'partials/pages/map/_image-map.php' ?>
 
               </div>

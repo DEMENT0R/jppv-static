@@ -19,6 +19,7 @@
                 <!-- Image Map -->
                 <img src="img/map-bg/dv_map_saha.svg" usemap="#image-map" width="80%">
 
+<?php $location = 'saha'; ?>
 <?php include 'partials/pages/map/_image-map.php' ?>
 
               </div>

@@ -17,6 +17,7 @@
                 <!-- Image Map -->
                 <img src="img/map-bg/dv_map_chuk.svg" usemap="#image-map" width="80%">
 
+<?php $location = 'chuk'; ?>
 <?php include 'partials/pages/map/_image-map.php' ?>
 
               </div>

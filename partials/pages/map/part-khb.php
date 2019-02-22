@@ -18,6 +18,7 @@
                 <!-- Image Map -->
                 <img src="img/map-bg/dv_map_khb.svg" usemap="#image-map" width="80%">
 
+<?php $location = 'khb'; ?>
 <?php include 'partials/pages/map/_image-map.php' ?>
 
               </div>

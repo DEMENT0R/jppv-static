@@ -11,7 +11,7 @@
             include 'partials/pages/map/part-saha.php'; 
             include 'partials/pages/map/part-skh.php'; 
 
-            $location = 'global-map';
+            $location = 'image-map';
             include 'partials/pages/map/_image-map.php';
 
             ?>
@@ -97,7 +97,7 @@
 
               //$('map').imageMapResize();
 
-              $('#global-map').imageMapResize();
+              $('#image-map').imageMapResize();
 
               // $('#dv').imageMapResize();
               // $('#vl').imageMapResize();

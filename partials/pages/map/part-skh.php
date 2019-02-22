@@ -18,9 +18,6 @@
                 <!-- Image Map -->
                 <img src="img/map-bg/dv_map_skh.svg" usemap="#image-map" width="80%">
 
-<?php $location = 'skh'; ?>
-<?php include 'partials/pages/map/_image-map.php' ?>
-
               </div>
               <div class="col-2" style="padding-right: 70px;">
                 <div class="block-100"></div>

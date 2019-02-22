@@ -17,9 +17,6 @@
                 <!-- Image Map -->
                 <img src="img/dv_map.svg" usemap="#image-map" width="80%">
 
-<?php $location = 'dv'; ?>
-<?php include 'partials/pages/map/_image-map.php' ?>
-
               </div>
               <div class="col-2" style="padding-right: 70px;">
                 <div class="block-100"></div>

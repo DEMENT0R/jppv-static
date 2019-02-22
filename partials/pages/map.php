@@ -11,6 +11,9 @@
             include 'partials/pages/map/part-saha.php'; 
             include 'partials/pages/map/part-skh.php'; 
 
+            $location = 'global-map';
+            include 'partials/pages/map/_image-map.php';
+
             ?>
 
             <!-- JQuery map buttons events handlers -->
@@ -94,15 +97,17 @@
 
               //$('map').imageMapResize();
 
-              $('#dv').imageMapResize();
-              $('#vl').imageMapResize();
-              $('#amur').imageMapResize();
-              $('#chuk').imageMapResize();
-              $('#eao').imageMapResize();
-              $('#kamch').imageMapResize();
-              $('#khb').imageMapResize();
-              $('#magadan').imageMapResize();
-              $('#saha').imageMapResize();
-              $('#skh').imageMapResize();
+              $('#global-map').imageMapResize();
+
+              // $('#dv').imageMapResize();
+              // $('#vl').imageMapResize();
+              // $('#amur').imageMapResize();
+              // $('#chuk').imageMapResize();
+              // $('#eao').imageMapResize();
+              // $('#kamch').imageMapResize();
+              // $('#khb').imageMapResize();
+              // $('#magadan').imageMapResize();
+              // $('#saha').imageMapResize();
+              // $('#skh').imageMapResize();
 
             </script>

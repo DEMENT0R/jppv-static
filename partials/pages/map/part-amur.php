@@ -18,8 +18,6 @@
               <div class="col-5">
                 <!-- Image Map -->
                 <img src="img/map-bg/dv_map_amur.svg" usemap="#image-map" width="80%">
-<?php $location = 'amur'; ?>
-<?php include 'partials/pages/map/_image-map.php' ?>
 
               </div>
               <div class="col-2" style="padding-right: 70px;">

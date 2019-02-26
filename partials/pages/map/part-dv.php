@@ -1,7 +1,7 @@
             <div id="map-dv" class="main-page-map-image main-page-map-image-dv row">
               <div class="col-1 bg-white"></div>
               <div class="col-1 mt-auto mb-0 text-center">
-                <a href="#land_2"><img src="/img/icons/arrow-down.svg" alt="Вниз!"></a>
+                <a href="#land_2"><img src="/img/icons/arrow-up-white.svg" alt="Вверх!"></a>
               </div>
               <div class="col-3">
                 <div class="block-100"></div>

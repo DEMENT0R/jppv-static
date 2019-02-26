@@ -9,7 +9,7 @@
             <div class="block-230"></div>
             <div class="block-230"></div>
             <p>
-              <a href="#" class="left-nav-link">Государственная поддержка</a><br>
+              <a href="/platforma" class="left-nav-link">Государственная поддержка</a><br>
             </p>
           </div>
           <div class="col-12 col-md-1 pl-0">

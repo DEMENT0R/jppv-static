@@ -1,6 +1,9 @@
             <div id="map-eao" class="main-page-map-image main-page-map-image-eao row">
               <div class="col-1 bg-white"></div>
-              <div class="col-3 offset-1">
+              <div class="col-1 mt-auto mb-0 text-center">
+                <a href="#land_2"><img src="/img/icons/arrow-up-white.svg" alt="Вверх!"></a>
+              </div>
+              <div class="col-3">
                 <div class="block-100"></div>
                 <h2 class="text-white mt-5">Дальний Восток</h2>
                 <div class="block-100"></div>

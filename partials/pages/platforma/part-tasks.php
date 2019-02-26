@@ -5,6 +5,7 @@
             <div class="row">
                   <div class="col-12">
                         <img src="img/platforma/1.jpg" alt="" width="100%">
+                        <div class="block-60px"></div>
                   </div>
                   <div class="col-6">
                         <h3>Медицина, увеличение продолжительности жизни</h3>

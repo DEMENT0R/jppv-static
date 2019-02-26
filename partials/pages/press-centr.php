@@ -5,6 +5,12 @@
           <div class="col-md-2">
             <div class="block-100"></div>
             <p class="mt-3 text-breadcrumbs"><a href="/">Главная</a> / <a href="/press-centr">Пресс-центр</a></p>
+            <div class="block-230"></div>
+            <div class="block-230"></div>
+            <div class="block-230"></div>
+            <p>
+              <a href="#" class="left-nav-link">Государственная поддержка</a><br>
+            </p>
           </div>
           <div class="col-12 col-md-1 pl-0">
             <div class="block-100"></div>

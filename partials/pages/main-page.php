@@ -58,6 +58,7 @@
             <p class="gray-text">20 сентября 2018</p>
             <hr>
             <div class="block-100"></div>
+            <a class="button-new" href="/platforma">Подробнее</a>
           </div>
           <div class="col-12 col-md-3">
             <div class="block-230"></div>

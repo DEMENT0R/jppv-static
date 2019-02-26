@@ -1,6 +1,6 @@
             <div id="map-amur" class="main-page-map-image main-page-map-image-amur row">
               <div class="col-1 bg-white"></div>
-              <div class="col-1 mt-auto mb-0 text-center">
+              <div class="col-1 m-auto mb-0 text-center">
                 <a href="#land_2"><img src="/img/icons/arrow-up-white.svg" alt="Вверх!"></a>
               </div>
               <div class="col-3">

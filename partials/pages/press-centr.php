@@ -9,7 +9,8 @@
             <div class="block-230"></div>
             <div class="block-230"></div>
             <p>
-              <a href="/platforma" class="left-nav-link">Государственная поддержка</a><br>
+              <a href="/press-centr" class="left-nav-link">Пресс-релизы</a><br>
+              <a href="/press-centr" class="left-nav-link">Реализуемы проекты</a><br>
             </p>
           </div>
           <div class="col-12 col-md-1 pl-0">

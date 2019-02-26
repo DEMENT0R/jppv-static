@@ -22,7 +22,7 @@
               <div class="d-none d-md-block block-100 d-none d-md-block"></div>
               <h1>Платформа поддержки японских инвестиций на Дальнем Востоке</h1>
               <p>Инициирована и создана Банком Японии для Международного Сотрудничества, Фондом развития Дальнего Востока и Байкальского региона и Агентством по привлечению инвестиций.</p>
-              
+              <div class="block-60px"></div>
               <a class="button-new" href="/platforma">Подробнее</a>
               <div class="d-none d-md-block block-100 d-none d-md-block"></div>
             </div>

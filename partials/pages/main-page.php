@@ -40,6 +40,13 @@
           <div class="col-12 col-md-2 pl-0">
             <div class="block-230"></div>
             <h2>Пресс - центр</h2>
+            <div class="block-230"></div>
+            <div class="col-12 mt-auto mb-0 text-center">
+              <p>
+                <a href="/press-centr" class="left-nav-link" id="link-platforma">Пресс-релизы</a><br>
+                <a href="/platforma" class="left-nav-link" id="link-tasks">Реализуемые проекты</a><br>
+              </p>
+            </div>
           </div>
           <div class="col-12 col-md-3 pl-0">
             <div class="block-230"></div>

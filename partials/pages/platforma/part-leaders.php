@@ -1,5 +1,7 @@
             <h1>Руководство</h1>
+            <div class="block-60px"></div>
 			<img src="/img/platforma/hachai_aleksey_igorevich.jpg" alt="Хачай Алексей Игоревич" width="100%">
+			<div class="block-60px"></div>
             <h3>Хачай Алексей Игоревич</h3>
             <p>Генеральный директор</p>
             <p>

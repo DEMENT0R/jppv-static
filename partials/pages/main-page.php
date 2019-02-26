@@ -41,7 +41,7 @@
             <div class="block-230"></div>
             <h2>Пресс - центр</h2>
             <div class="block-230"></div>
-            <div class="col-12 mt-auto mb-0 text-center">
+            <div class="mt-auto mb-0 text-center" style="height: 100%; width: 100%;">
               <p>
                 <a href="/press-centr" class="left-nav-link" id="link-platforma">Пресс-релизы</a><br>
                 <a href="/platforma" class="left-nav-link" id="link-tasks">Реализуемые проекты</a><br>

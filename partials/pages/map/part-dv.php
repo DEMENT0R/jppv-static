@@ -1,6 +1,9 @@
             <div id="map-dv" class="main-page-map-image main-page-map-image-dv row">
               <div class="col-1 bg-white"></div>
-              <div class="col-3 offset-1">
+              <div class="col-1 mt-auto mb-0 text-center">
+                <a href="#land_2"><img src="/img/icons/arrow-down.svg" alt="Вниз!"></a>
+              </div>
+              <div class="col-3">
                 <div class="block-100"></div>
                 <h2 class="text-white mt-5">Дальний Восток</h2>
                 <div class="block-100"></div>

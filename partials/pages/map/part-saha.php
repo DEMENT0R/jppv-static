@@ -27,14 +27,14 @@
                 <div class="block-100"></div>
                 <h2 class="text-white mt-5">3 084 тыс. кв. км</h2>
                 <hr class="bg-white">
-                <h3 class="text-white">ПЛОЩАДЬ</h3>
+                <h4 class="text-white">ПЛОЩАДЬ</h4>
 
                 <h2 class="text-white mt-4">964 тыс. чел.</h2>
                 <hr class="bg-white">
-                <h3 class="text-white">НАСЕЛЕНИЕ РЕГИОНА</h3>
+                <h4 class="text-white">НАСЕЛЕНИЕ РЕГИОНА</h4>
 
                 <h2 class="text-white mt-4">0,31 чел./кв. км</h2>
                 <hr class="bg-white">
-                <h3 class="text-white">ПЛОТНОСТЬ НАСЕЛЕНИЯ</h3>
+                <h4 class="text-white">ПЛОТНОСТЬ НАСЕЛЕНИЯ</h4>
               </div>
             </div>

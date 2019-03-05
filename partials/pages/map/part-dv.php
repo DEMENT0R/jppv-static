@@ -25,17 +25,17 @@
                 <div class="block-100"></div>
                 <h2 class="text-white mt-5">6100 тыс. кв. км</h2>
                 <hr class="bg-white">
-                <h3 class="text-white">ПЛОЩАДЬ ДАЛЬНЕГО ВОСТОКА</h3>
+                <h4 class="text-white">ПЛОЩАДЬ ДАЛЬНЕГО ВОСТОКА</h4>
                 <p class="text-white">Высокий ВРП - 268 000 руб. (на 19% выше среднего показателя по России)</p>
 
                 <h2 class="text-white mt-4">6,6  чел/кв. км</h2>
                 <hr class="bg-white">
-                <h3 class="text-white">НАСЕЛЕНИЕ РЕГИОНА</h3>
+                <h4 class="text-white">НАСЕЛЕНИЕ РЕГИОНА</h4>
                 <p class="text-white">Первое место в России по объему инвестиций на душу населения</p>
 
                 <h2 class="text-white mt-4">>1 млн. чел</h2>
                 <hr class="bg-white">
-                <h3 class="text-white">ПЛОТНОСТЬ НАСЕЛЕНИЯ</h3>
+                <h4 class="text-white">ПЛОТНОСТЬ НАСЕЛЕНИЯ</h4>
                 <p class="text-white">Уровень зарплаты выше среднего показателя по России на 23%</p>
               </div>
             </div>
